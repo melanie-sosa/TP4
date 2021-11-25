@@ -1,0 +1,18 @@
+Retiro Puerta;100
+Entrega Puerta;200
+Urgente;1,15
+Pais Limitrofe;2500
+America Latina;4500
+America Norte;7500
+Europa;10000
+Asia;13500
+Sobres hasta 500 gramos;200
+Bultos hasta 10 kilogramos;300
+Bultos hasta 20 kilogramos;400
+Bultos hasta 30 kilogramos;500
+Alcance1;150
+Alcance2;250
+Alcance3;350
+Alcance4;450
+Tope Pais;150
+Tope Internacional;2300

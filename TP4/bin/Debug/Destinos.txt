@@ -1,0 +1,34 @@
+1;Buenos Aires;Metropolitana
+2;CABA;Metropolitana
+3;Catamarca;Norte
+4;Chaco;Norte
+5;Chubut;Sur
+6;Cordoba;Centro
+7;Corrientes;Norte
+8;Entre Rios;Centro
+9;Formosa;Norte
+10;Jujuy;Norte
+11;La Pampa;Centro
+12;La Rioja;Centro
+13;Mendoza;Centro
+14;Misiones;Norte
+15;Neuquen;Sur
+16;Rio Negro;Sur
+17;San Luis;Centro
+18;San Juan;Centro
+19;Santa Cruz;Sur
+20;Santa Fe;Centro
+21;Santiago del Estero;Norte
+22;Salta;Norte
+23;Tierra del Fuego;Sur
+24;Tucumán;Norte
+25;Brasil - San Pablo;Limitrofe
+26;Uruguay - Montevideo;Limitrofe
+27;Paraguay - Asuncion;Limitrofe
+28;Colombia - Antioquia;AmericaLatina
+29;Peru - Lima;AmericaLatina
+30;Ecuador - Quito;AmericaLatina
+31;Estados Unidos - California;AmericaNorte
+32;España - Madrid;Europa
+33;Japon - Tokio;Asia
+34;China - Pekin;Asia
