@@ -537,12 +537,17 @@ namespace Trabajo_Practico_4
 
                 if (string.IsNullOrWhiteSpace(datosIngresados))
                     Console.Write("\nPor favor, no ingrese valores vacíos\n");
-                else if (flag = hasSpecialChar(datosIngresados))
+                else if (hasSpecialChar(datosIngresados))
                     Console.Write("\nEl nombre y apellido no puede contener números ni tampoco símbolos\n");
+                else if (hasSpecialChar3(datosIngresados))
+                {
+                    Console.WriteLine("\nEl nombre y apellido no puede contener símbolos\n");
+                }
                 else
                 {
                     flag_ = true;
                 }
+
 
             } while (flag_ == false);
 
